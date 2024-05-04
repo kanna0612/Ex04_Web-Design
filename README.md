@@ -26,10 +26,48 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
+<html>
 
+<body>
+
+<h1>potato</h1>
+
+<a href="https://en.wikipedia.org/wiki/Potato">
+
+<img src="C:\Users\admin\Downloads\potato.jpeg"
+
+width="200" height="200"></a>
+
+<br>
+<h1>tractor</h1>
+
+<a href="https://en.wikipedia.org/wiki/Backhoe_loader">
+
+<img src="C:\Users\admin\Downloads\tractor.jpeg"
+
+width="200" height="200"></a>
+
+<br>
+
+<h1>fertilizer</h1>
+
+<a href="https://en.wikipedia.org/wiki/Fertilizer">
+
+<img src="C:\Users\admin\Downloads\fdownload.jpeg"
+
+width="200" height="200"></a>
+
+</body>
+
+</html>
+```
 
 ## OUTPUT
-
+![alt text](<Screenshot (65).png>)
+![alt text](<Screenshot (66).png>)
+![alt text](<Screenshot (67).png>)
+![alt text](<Screenshot (68).png>)
 
 ## RESULT
  Images as hyperlinks is implemented successfully.
